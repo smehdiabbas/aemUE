@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:4502/sites.html/content/my-aem-project"
+    url: "http://localhost:4502/sites.html"
     type: "markup"
     suffix: ".html"
